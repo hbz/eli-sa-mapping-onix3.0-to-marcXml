@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ONIXmessage release="2.1">
+  <Product datestamp="20230418">
+    <RecordReference>9783030690120/nbs</RecordReference>
+    <NotificationType>03</NotificationType>
+    <RecordSourceIdentifierType>05</RecordSourceIdentifierType>
+    <RecordSourceIdentifier>27847</RecordSourceIdentifier>
+    <RecordSourceName>NEWBOOKS</RecordSourceName>
+    <ProductIdentifier>
+      <ProductIDType>01</ProductIDType>
+      <IDTypeName>Publishers Order No</IDTypeName>
+      <IDValue>978-3-030-69012-0</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9783030690120</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>06</ProductIDType>
+      <IDValue>10.1007/978-3-030-69013-7</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9783030690120</IDValue>
+    </ProductIdentifier>
+    <ProductForm>BB</ProductForm>
+    <ProductPackaging>00</ProductPackaging>
+    <NumberOfPieces>1</NumberOfPieces>
+    <ProductClassification>
+      <ProductClassificationType>04</ProductClassificationType>
+      <ProductClassificationCode>49019900</ProductClassificationCode>
+    </ProductClassification>
+    <NoSeries />
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Reconceptualizing Quality in Early Childhood Education, Care and Development</TitleText>
+      <Subtitle>Understanding the Child and Community</Subtitle>
+    </Title>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>B01</ContributorRole>
+      <SequenceNumberWithinRole>1</SequenceNumberWithinRole>
+      <PersonName>Zoyah Kinkead-Clark</PersonName>
+      <PersonNameInverted>Kinkead-Clark, Zoyah</PersonNameInverted>
+      <NamesBeforeKey>Zoyah</NamesBeforeKey>
+      <KeyNames>Kinkead-Clark</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>B01</ContributorRole>
+      <SequenceNumberWithinRole>2</SequenceNumberWithinRole>
+      <PersonName>Kerry-Ann Escayg</PersonName>
+      <PersonNameInverted>Escayg, Kerry-Ann</PersonNameInverted>
+      <NamesBeforeKey>Kerry-Ann</NamesBeforeKey>
+      <KeyNames>Escayg</KeyNames>
+    </Contributor>
+    <EditionStatement>1st ed. 2021</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <PagesRoman>xxv</PagesRoman>
+    <PagesArabic>300</PagesArabic>
+    <Illustrations>
+      <IllustrationType>01</IllustrationType>
+      <Number>4</Number>
+    </Illustrations>
+    <Illustrations>
+      <IllustrationType>26</IllustrationType>
+      <IllustrationTypeDescription>XXV, 300 p. 4 illus.</IllustrationTypeDescription>
+    </Illustrations>
+    <BASICMainSubject>EDU023000</BASICMainSubject>
+    <BICMainSubject>JNLA</BICMainSubject>
+    <BICVersion>2.0</BICVersion>
+    <MainSubject>
+      <MainSubjectSchemeIdentifier>26</MainSubjectSchemeIdentifier>
+      <SubjectSchemeVersion>2.0</SubjectSchemeVersion>
+      <SubjectCode>1573</SubjectCode>
+      <SubjectHeadingText>Hardcover, Softcover / Pädagogik/Kindergarten- und Vorschulpädagogik</SubjectHeadingText>
+    </MainSubject>
+    <MainSubject>
+      <MainSubjectSchemeIdentifier>04</MainSubjectSchemeIdentifier>
+      <SubjectHeadingText>Early childhood education</SubjectHeadingText>
+    </MainSubject>
+    <MainSubject>
+      <MainSubjectSchemeIdentifier>01</MainSubjectSchemeIdentifier>
+      <SubjectCode>372.21</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </MainSubject>
+    <MainSubject>
+      <MainSubjectSchemeIdentifier>03</MainSubjectSchemeIdentifier>
+      <SubjectCode>LB1139.2-.5</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </MainSubject>
+    <MainSubject>
+      <MainSubjectSchemeIdentifier>93</MainSubjectSchemeIdentifier>
+      <SubjectSchemeVersion>1.3</SubjectSchemeVersion>
+      <SubjectCode>JNG</SubjectCode>
+      <SubjectHeadingText>Early childhood care and education</SubjectHeadingText>
+    </MainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>quality in education;ECE;EY education;quality in the early years;development and education</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>newbooks</SubjectSchemeName>
+      <SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+      <SubjectCode>SMCA</SubjectCode>
+      <SubjectHeadingText>Medienwissenschaften</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Marketing Classification</SubjectSchemeName>
+      <SubjectHeadingText>B</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Subject Code</SubjectSchemeName>
+      <SubjectCode>SCO37000</SubjectCode>
+      <SubjectHeadingText>Early Childhood Education</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Subject Collection</SubjectSchemeName>
+      <SubjectCode>SUCO41171</SubjectCode>
+      <SubjectHeadingText>Education</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Taxonomy</SubjectSchemeName>
+      <SubjectCode>3930</SubjectCode>
+      <SubjectHeadingText>Early Childhood Education</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>EDU043000</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>JN</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>04</SubjectSchemeIdentifier>
+      <SubjectHeadingText>International education </SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>03</SubjectSchemeIdentifier>
+      <SubjectCode>LB43</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+      <SubjectCode>370.116</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectSchemeVersion>1.3</SubjectSchemeVersion>
+      <SubjectCode>JND</SubjectCode>
+      <SubjectHeadingText>Educational systems and structures</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Taxonomy</SubjectSchemeName>
+      <SubjectCode>5364</SubjectCode>
+      <SubjectHeadingText>International and Comparative Education</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Subject Code</SubjectSchemeName>
+      <SubjectCode>SCO13000</SubjectCode>
+      <SubjectHeadingText>International and Comparative Education</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>newbooks</SubjectSchemeName>
+      <SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+      <SubjectCode>SPOP020</SubjectCode>
+      <SubjectHeadingText>Innen-, Bildungs- und Bevölkerungspolitik</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>PSY004000</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>JMC</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>04</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Comparative education</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+      <SubjectCode>370.9</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>03</SubjectSchemeIdentifier>
+      <SubjectCode>LC1090</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectSchemeVersion>1.3</SubjectSchemeVersion>
+      <SubjectCode>JMC</SubjectCode>
+      <SubjectHeadingText>Child, developmental and lifespan psychology</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Taxonomy</SubjectSchemeName>
+      <SubjectCode>5198</SubjectCode>
+      <SubjectHeadingText>Child and Adolescence Psychology</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>newbooks</SubjectSchemeName>
+      <SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+      <SubjectCode>SMCB</SubjectCode>
+      <SubjectHeadingText>Kommunikationswissenschaften</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Subject Code</SubjectSchemeName>
+      <SubjectCode>SCY12050</SubjectCode>
+      <SubjectHeadingText>Infancy and Early Childhood Development</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>03</SubjectSchemeIdentifier>
+      <SubjectCode>BF712-724.92</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+      <SubjectCode>155</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>04</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Developmental psychology</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>nbCategory</SubjectSchemeName>
+      <SubjectCode>CV</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>06</TextFormat>
+      <Text language="eng">Recognizing the various ecological contexts that support children’s development while amplifying voices from across the globe, this book challenges narrow interpretations of quality and best practice.  Each author offers a unique perspective on issues germane to the field of early childhood education: perceptions of children, curriculum, teacher education, and play-based learning. An innovative, timely, and much-needed contribution, this book represents an inclusive collection of theoretical and cultural knowledge, as well as research. Such a diverse multicentric lens opens new intellectual pathways for authentic, reciprocal knowledge exchange, while ensuring that a reimagining of early childhood education remains at the core of our teaching practice, scholarship, and activism.  This book invites everyone to imagine, to dare to believe, to hope, and to act—in the interests of children, in the interests of communities and families, and in the moral precepts of equity, inclusion and justice.
+</Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>04</TextTypeCode>
+      <TextFormat>06</TextFormat>
+      <Text language="eng">Part 1. Reconceptualising Quality: Perceptions of the Child.- Chapter 1. The child as “Other”: The Duality of the other and the pedagogy of care.- Chapter 2. The role of the critical paradigm and revisiting the image of the child as a social agent.- Part 2. Reconceptualising quality:  Classroom practices.- Chapter 3.  Every Learner Succeeds: Reconceptualising Quality in Early Childhood in the Organisation of the Eastern Caribbean States.- Chapter 4. Towards a balanced early-years curriculum: Awakening to foreign languages illustrated.- Chapter 5. Rethinking an Early Care and Education Program: Responding to Changes in Community Demographics.- Chapter 6. Indigenous children’s ‘ways of knowing’ – exploring literacy learning for Indigenous preschool children in remote communities in Australia.- Part 3. Reconceptualising Quality: Teacher Education/Teacher training.- Chapter 7: Questioning quality in early childhood teacher education through the lens of culture.- Chapter 8. Knowing differently/Teaching differently: Transforming a Teacher Education Program.- Chapter 9. Management of Early Childhood Education Provision in Tanzania: Structure, Prospects and Challenges.- Part 4. Reconceptualising Quality: Play-based learning.- Chapter 10. An anti-racist perspective of play-based learning.- Chapter 11. The Case of a Self-Developed Community of Learners Outdoors: Benefits and Challenges for Stay-At-Home-Moms and Their Toddlers.;  ; </Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>06</TextFormat>
+      <Text language="eng">Zoyah Kinkead-Clark is Senior Lecturer and coordinator of early childhood programmes at The University of the West Indies, Jamaica. As a researcher, she is particularly interested in understanding how young children are shaped by their ecological experiences within the home and wider community with the view to explore how educators can build on these in early years settings.
+
+Kerry-Ann Escayg is an Assistant Professor of Early Childhood Education at the University of Nebraska-Omaha, USA. Dr. Escayg’s research interests are children and race, anti-racism in early childhood education, racial socialization, and qualitative research with children.
+</Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>18</TextTypeCode>
+      <TextFormat>06</TextFormat>
+      <Text language="eng">Recognizing the various ecological contexts that support children’s development while amplifying voices from across the globe, this book challenges narrow interpretations of quality and best practice. Each author offers a unique perspective on issues germane to the field of early childhood education: perceptions of children, curriculum, teacher education, and play-based learning. An innovative, timely, and much-needed contribution, this book represents an inclusive collection of theoretical and cultural knowledge, as well as research. Such a diverse multicentric lens opens new intellectual pathways for authentic, reciprocal knowledge exchange, while ensuring that a reimagining of early childhood education remains at the core of our teaching practice, scholarship, and activism.  This book invites everyone to imagine, to dare to believe, to hope, and to act—in the interests of children, in the interests of communities and families, and in the moral precepts of equity, inclusion and justice.
+Zoyah Kinkead-Clark is Senior Lecturer and coordinator of early childhood programmes at The University of the West Indies, Jamaica. As a researcher, she is particularly interested in understanding how young children are shaped by their ecological experiences within the home and wider community with the view to explore how educators can build on these in early years settings.
+
+Kerry-Ann Escayg is an Assistant Professor of Early Childhood Education at the University of Nebraska-Omaha, USA. Dr. Escayg’s research interests are children and race, anti-racism in early childhood education, racial socialization, and qualitative research with children.
+</Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>19</TextTypeCode>
+      <TextFormat>06</TextFormat>
+      <Text language="eng">Challenges interpretations of best practice in early childhood education
+
+Draws from global research to offer unique perspectives
+
+Opens up new intellectual pathways for theoretical and cultural knowledge
+</Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>99</TextTypeCode>
+      <TextFormat>06</TextFormat>
+      <Text language="eng">NL</Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <ImageResolution>96</ImageResolution>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://www.newbooks-services.de/MediaFiles/Cover/0/9783030690120_cover.jpg</MediaFileLink>
+      <DownloadTerms>648x459px</DownloadTerms>
+      <MediaFileDate>20210304</MediaFileDate>
+    </MediaFile>
+    <MediaFile>
+      <MediaFileTypeCode>06</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <ImageResolution>300</ImageResolution>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://www.newbooks-services.de/MediaFiles/Cover/0/9783030690120_06.jpg</MediaFileLink>
+    </MediaFile>
+    <ProductWebsite>
+      <ProductWebsiteLink>http://www.springer.com/</ProductWebsiteLink>
+    </ProductWebsite>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Springer Nature Imprint</NameCodeTypeName>
+      <NameCodeValue>PM</NameCodeValue>
+      <ImprintName>Palgrave Macmillan</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>05</NameCodeType>
+      <NameCodeValue>5108985</NameCodeValue>
+      <PublisherName>Palgrave Macmillan</PublisherName>
+      <Website>
+        <WebsiteLink>http://www.springer.com/</WebsiteLink>
+      </Website>
+    </Publisher>
+    <CityOfPublication>Cham</CityOfPublication>
+    <CountryOfPublication>CH</CountryOfPublication>
+    <PublishingStatus>04</PublishingStatus>
+    <PublicationDate>20210610</PublicationDate>
+    <CopyrightYear>2021</CopyrightYear>
+    <Measure>
+      <MeasureTypeCode>08</MeasureTypeCode>
+      <Measurement>555</Measurement>
+      <MeasureUnitCode>gr</MeasureUnitCode>
+    </Measure>
+    <Measure>
+      <MeasureTypeCode>01</MeasureTypeCode>
+      <Measurement>210</Measurement>
+      <MeasureUnitCode>mm</MeasureUnitCode>
+    </Measure>
+    <Measure>
+      <MeasureTypeCode>02</MeasureTypeCode>
+      <Measurement>148</Measurement>
+      <MeasureUnitCode>mm</MeasureUnitCode>
+    </Measure>
+    <RelatedProduct>
+      <RelationCode>27</RelationCode>
+      <ProductIdentifier>
+        <ProductIDType>01</ProductIDType>
+        <IDValue>978-3-030-69013-7</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+        <ProductIDType>03</ProductIDType>
+        <IDValue>9783030690137</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+        <ProductIDType>15</ProductIDType>
+        <IDValue>9783030690137</IDValue>
+      </ProductIdentifier>
+      <ProductForm>DG</ProductForm>
+    </RelatedProduct>
+    <RelatedProduct>
+      <RelationCode>06</RelationCode>
+      <ProductIdentifier>
+        <ProductIDType>01</ProductIDType>
+        <IDValue>978-3-030-69015-1</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+        <ProductIDType>03</ProductIDType>
+        <IDValue>9783030690151</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+        <ProductIDType>15</ProductIDType>
+        <IDValue>9783030690151</IDValue>
+      </ProductIdentifier>
+      <ProductForm>BC</ProductForm>
+    </RelatedProduct>
+    <SupplyDetail>
+      <SupplierIdentifier>
+        <SupplierIDType>05</SupplierIDType>
+        <IDValue>5251753</IDValue>
+      </SupplierIdentifier>
+      <SupplierName>Springer International Publishing</SupplierName>
+      <AvailabilityCode>MD</AvailabilityCode>
+      <ProductAvailability>23</ProductAvailability>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>139.99</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <Territory>ROW</Territory>
+        <PriceEffectiveFrom>20230401</PriceEffectiveFrom>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>153.99</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <CountryCode>AT</CountryCode>
+        <TaxRateCode1>R</TaxRateCode1>
+        <TaxRatePercent1>10.0</TaxRatePercent1>
+      </Price>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>208.18</PriceAmount>
+        <CurrencyCode>AUD</CurrencyCode>
+        <CountryCode>AU</CountryCode>
+        <PriceEffectiveFrom>20230401</PriceEffectiveFrom>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>229.00</PriceAmount>
+        <CurrencyCode>AUD</CurrencyCode>
+        <CountryCode>AU</CountryCode>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>165.50</PriceAmount>
+        <CurrencyCode>CHF</CurrencyCode>
+        <CountryCode>CH</CountryCode>
+        <TaxRateCode1>R</TaxRateCode1>
+        <TaxRatePercent1>2.5</TaxRatePercent1>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>149.79</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <CountryCode>DE</CountryCode>
+        <TaxRateCode1>R</TaxRateCode1>
+        <TaxRatePercent1>7.0</TaxRatePercent1>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>147.69</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <CountryCode>FR</CountryCode>
+      </Price>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>119.99</PriceAmount>
+        <CurrencyCode>GBP</CurrencyCode>
+        <CountryCode>GB</CountryCode>
+        <PriceEffectiveFrom>20230401</PriceEffectiveFrom>
+      </Price>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>9970.00</PriceAmount>
+        <CurrencyCode>INR</CurrencyCode>
+        <CountryCode>IN</CountryCode>
+        <PriceEffectiveFrom>20230401</PriceEffectiveFrom>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>145.59</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <CountryCode>IT</CountryCode>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>20019.00</PriceAmount>
+        <CurrencyCode>JPY</CurrencyCode>
+        <CountryCode>JP</CountryCode>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>152.59</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <CountryCode>NL</CountryCode>
+      </Price>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>159.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <CountryCode>US</CountryCode>
+      </Price>
+    </SupplyDetail>
+    <OrderLabels p1:type="MarcExportOrderlabel_920aa" tag="920" ind1="3" ind2="m" marctype="920aa" xmlns:p1="http://www.w3.org/2001/XMLSchema-instance">
+      <subfield code="0">DE-605;EL-20230627-00000882_00001</subfield>
+      <subfield code="1">DE-605</subfield>
+      <subfield code="2">ELiSA-9783030690120</subfield>
+      <subfield code="3">9783030690120</subfield>
+    </OrderLabels>
+    <OrderLabels p1:type="MarcExportOrderlabel_921aa" tag="921" ind1="3" ind2="m" marctype="921aa" xmlns:p1="http://www.w3.org/2001/XMLSchema-instance">
+      <subfield code="a">DE-605</subfield>
+      <subfield code="b">FBMED</subfield>
+      <subfield code="c">1</subfield>
+      <subfield code="m">Medien und Kommunikation</subfield>
+    </OrderLabels>
+    <OrderLabels p1:type="MarcExportOrderlabel_922aa" tag="922" ind1="3" ind2="m" marctype="922aa" xmlns:p1="http://www.w3.org/2001/XMLSchema-instance">
+      <subfield code="a">3-321</subfield>
+      <subfield code="b">ub_test</subfield>
+      <subfield code="c">DE-605;EL-20230627-00000882_00003</subfield>
+      <subfield code="f">149.79</subfield>
+      <subfield code="g">ELiSA-9783030690120</subfield>
+      <subfield code="j">001</subfield>
+      <subfield code="k">100</subfield>
+      <subfield code="l">Rip</subfield>
+      <subfield code="q">N</subfield>
+      <subfield code="r">N</subfield>
+      <subfield code="u">9783030690120</subfield>
+      <subfield code="v">N</subfield>
+    </OrderLabels>
+  </Product>
+</ONIXmessage>

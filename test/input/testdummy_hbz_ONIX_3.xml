@@ -1,0 +1,388 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<ONIXMessage release="3.0">
+<Header>
+    <Sender>
+        <SenderIdentifier>
+            <SenderIDType>07</SenderIDType>
+            <IDValue>1234567891023</IDValue>
+        </SenderIdentifier>
+        <SenderName>hbz</SenderName>
+        <EmailAddress>test@hbz-nrw.de</EmailAddress>
+     </Sender>
+     <SentDateTime>20230310</SentDateTime>
+     <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+</Header>
+<Product>
+    <RecordReference>9781390042740</RecordReference>
+    <NotificationType>03</NotificationType>
+    <RecordSourceType>04</RecordSourceType>
+    <RecordSourceName>Nielsen BookData</RecordSourceName>
+    <ProductIdentifier>
+        <ProductIDType>01</ProductIDType>
+        <IDValue>11064961</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+        <ProductIDType>02</ProductIDType>
+        <IDValue>139004274X</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+        <ProductIDType>15</ProductIDType>
+        <IDValue>9781390042740</IDValue>
+    </ProductIdentifier>
+    <DescriptiveDetail>
+        <ProductComposition>00</ProductComposition>
+        <ProductForm>EA</ProductForm>
+        <ProductFormDetail>E101</ProductFormDetail>
+        <PrimaryContentType>09</PrimaryContentType>
+        <ProductContentType>09</ProductContentType>
+        <Measure>
+            <MeasureType>01</MeasureType>
+            <Measurement>229</Measurement>
+            <MeasureUnitCode>mm</MeasureUnitCode>
+        </Measure>
+        <Measure>
+            <MeasureType>02</MeasureType>
+            <Measurement>152</Measurement>
+            <MeasureUnitCode>mm</MeasureUnitCode>
+        </Measure>
+		<CountryOfManufacture>GB</CountryOfManufacture>
+        <ProductClassification>
+            <ProductClassificationType>03</ProductClassificationType>
+            <ProductClassificationCode>4901</ProductClassificationCode>
+        </ProductClassification>
+        <ProductClassification>
+            <ProductClassificationType>09</ProductClassificationType>
+            <ProductClassificationCode>49.01</ProductClassificationCode>
+        </ProductClassification>
+		<ProductPart>
+            <ProductIdentifier>
+                <ProductIDType>15</ProductIDType>
+                <IDValue>9781668459768</IDValue>
+            </ProductIdentifier>
+            <ProductForm>BB</ProductForm>
+            <NumberOfItemsOfThisForm>1</NumberOfItemsOfThisForm>
+            <NumberOfCopies>1</NumberOfCopies>
+            <CountryOfManufacture>US</CountryOfManufacture>
+        </ProductPart>
+        <ProductPart>
+            <ProductIdentifier>
+                <ProductIDType>15</ProductIDType>
+                <IDValue>9781668459782</IDValue>
+            </ProductIdentifier>
+            <ProductForm>EA</ProductForm>
+            <NumberOfItemsOfThisForm>1</NumberOfItemsOfThisForm>
+            <NumberOfCopies>1</NumberOfCopies>
+            <CountryOfManufacture>US</CountryOfManufacture>
+        </ProductPart>
+        <Collection>
+            <CollectionType>10</CollectionType>
+            <CollectionIdentifier>
+                <CollectionIDType>02</CollectionIDType>
+                <IDValue>2327-5677</IDValue>
+            </CollectionIdentifier>
+            <CollectionIdentifier>
+                <CollectionIDType>01</CollectionIDType>
+                <IDTypeName>Nielsen Series Authority File</IDTypeName>
+                <IDValue>300306044</IDValue>
+            </CollectionIdentifier>
+            <TitleDetail>
+                <TitleType>01</TitleType>
+                <TitleElement>
+                    <TitleElementLevel>02</TitleElementLevel>
+                    <NoPrefix/>
+                    <TitleWithoutPrefix>Advances in Finance, Accounting, and Economics</TitleWithoutPrefix>
+                </TitleElement>
+            </TitleDetail>
+            <Contributor>
+                <SequenceNumber>1</SequenceNumber>
+                <ContributorRole>B01</ContributorRole> 
+				<PersonNameInverted>Driouchi Ahmed</PersonNameInverted>
+                <NamesBeforeKey>Ahmed</NamesBeforeKey>
+                <KeyNames>Driouchi</KeyNames>
+            </Contributor>
+        </Collection>
+        <TitleDetail>
+            <TitleType>01</TitleType>
+            <TitleElement>
+                <TitleElementLevel>01</TitleElementLevel>
+                <TitlePrefix>Das</TitlePrefix>
+                <TitleWithoutPrefix>ist ein hbz Testtitel</TitleWithoutPrefix>
+            </TitleElement>
+        </TitleDetail>
+        <Contributor>
+            <SequenceNumber>01</SequenceNumber>
+            <ContributorRole>A01</ContributorRole>
+            <NameType>00</NameType>
+            <PersonName>Max Mustermann</PersonName>
+            <PersonNameInverted>Mustermann, Max</PersonNameInverted>
+            <NamesBeforeKey>Max</NamesBeforeKey>
+            <KeyNames>Mustermann</KeyNames>
+        </Contributor>
+		<EditionType>ENL</EditionType>
+		<EditionNumber>2</EditionNumber>
+		<EditionStatement>2nd edition</EditionStatement>
+        <Language>
+            <LanguageRole>01</LanguageRole>
+            <LanguageCode>eng</LanguageCode>
+        </Language>
+        <Extent>
+            <ExtentType>05</ExtentType>
+            <ExtentValue>364</ExtentValue>
+            <ExtentUnit>03</ExtentUnit>
+        </Extent>
+        <AncillaryContent>
+            <AncillaryContentType>01</AncillaryContentType>
+            <AncillaryContentDescription>BLACK_AND_WHITE_BLEED</AncillaryContentDescription>
+        </AncillaryContent>
+		<NumberOfPages>364</NumberOfPages>
+        <Subject>
+            <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+            <SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+            <SubjectCode>CJ</SubjectCode>
+            <SubjectHeadingText>Language teaching &amp; learning (other than ELT)</SubjectHeadingText>
+        </Subject>
+        <Subject>
+            <SubjectSchemeIdentifier>14</SubjectSchemeIdentifier>
+            <SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+            <SubjectCode>2ACG</SubjectCode>
+            <SubjectHeadingText>German</SubjectHeadingText>
+        </Subject>
+        <Subject>
+            <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+            <SubjectCode>FOR009000</SubjectCode>
+            <SubjectHeadingText>FOREIGN LANGUAGE STUDY / German</SubjectHeadingText>
+        </Subject>
+        <Subject>
+            <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+            <SubjectSchemeVersion>1.5</SubjectSchemeVersion>
+            <SubjectCode>CJ</SubjectCode>
+            <SubjectHeadingText>Language teaching and learning</SubjectHeadingText>
+        </Subject>
+        <Subject>
+            <SubjectSchemeIdentifier>95</SubjectSchemeIdentifier>
+            <SubjectSchemeVersion>1.5</SubjectSchemeVersion>
+            <SubjectCode>2ACG</SubjectCode>
+            <SubjectHeadingText>German</SubjectHeadingText>
+        </Subject>
+        <Subject>
+            <SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+            <SubjectSchemeVersion>1.2</SubjectSchemeVersion>
+            <SubjectCode>LAN</SubjectCode>
+            <SubjectHeadingText>ANF: Language</SubjectHeadingText>
+        </Subject>
+        <Subject>
+            <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+            <SubjectSchemeName>NBS Product Class</SubjectSchemeName>
+            <SubjectCode>T17.4</SubjectCode>
+        </Subject>
+        <Audience>
+            <AudienceCodeType>17</AudienceCodeType>
+            <AudienceCodeValue>G</AudienceCodeValue>
+        </Audience>
+        <Audience>
+            <AudienceCodeType>01</AudienceCodeType>
+            <AudienceCodeValue>01</AudienceCodeValue>
+        </Audience>
+    </DescriptiveDetail>
+    <CollateralDetail>
+	    <TextContent>
+            <TextType>02</TextType>
+            <ContentAudience>00</ContentAudience>
+            <Text textformat="06">Bibliographical Note</Text>
+        </TextContent>
+        <SupportingResource>
+            <ResourceContentType>27</ResourceContentType>
+            <ContentAudience>00</ContentAudience>
+            <ResourceMode>03</ResourceMode>
+            <ResourceVersion>
+                <ResourceForm>02</ResourceForm>
+                <ResourceVersionFeature>
+                    <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+                    <FeatureValue>D502</FeatureValue>
+                </ResourceVersionFeature>
+                <ResourceLink>https://api2.forgottenbooks.com/api/thumb/eyJpdiI6ImhJSGlYNEpmcXBpTWVvL0pEWWFLRlE9PSIsInZhbHVlIjoieWc3RjB6bC90U2cxelVMcnpQM2hPUmFaQ3ZiZk42ZTE2ajN1QVphVkJDVT0iLCJtYWMiOiI3YjEwMmQ5NWY0MDk1Y2NhNzk2MzMwMDUwYjE5NDc5Mzg5NzJhOTQ5NWU3OGFiOTFlYTgyNTRmNWQ4OTRlNmIwIn0%3D</ResourceLink>
+            </ResourceVersion>
+        </SupportingResource>
+        <SupportingResource>
+            <ResourceContentType>27</ResourceContentType>
+            <ContentAudience>00</ContentAudience>
+            <ResourceMode>03</ResourceMode>
+            <ResourceVersion>
+                <ResourceForm>02</ResourceForm>
+                <ResourceVersionFeature>
+                    <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+                    <FeatureValue>D502</FeatureValue>
+                </ResourceVersionFeature>
+                <ResourceLink>https://api2.forgottenbooks.com/api/thumbBack/eyJpdiI6ImhJSGlYNEpmcXBpTWVvL0pEWWFLRlE9PSIsInZhbHVlIjoieWc3RjB6bC90U2cxelVMcnpQM2hPUmFaQ3ZiZk42ZTE2ajN1QVphVkJDVT0iLCJtYWMiOiI3YjEwMmQ5NWY0MDk1Y2NhNzk2MzMwMDUwYjE5NDc5Mzg5NzJhOTQ5NWU3OGFiOTFlYTgyNTRmNWQ4OTRlNmIwIn0%3D</ResourceLink>
+            </ResourceVersion>
+        </SupportingResource>
+		<Prize>
+            <PrizeName>Auszeichnung</PrizeName>
+            <PrizeYear>2022</PrizeYear>
+            <PrizeCode>01</PrizeCode>
+            <PrizeStatement>Winner of Prix Hors concours des lecteurs  2022</PrizeStatement>
+        </Prize>
+    </CollateralDetail>
+    <PublishingDetail>
+        <Imprint>
+            <ImprintIdentifier>
+                <ImprintIDType>01</ImprintIDType>
+                <IDTypeName>Nielsen BookData Org ID</IDTypeName>
+                <IDValue>316954</IDValue>
+            </ImprintIdentifier>
+            <ImprintName>Forgotten Books</ImprintName>
+        </Imprint>
+        <Publisher>
+            <PublishingRole>01</PublishingRole>
+            <PublisherIdentifier>
+                <PublisherIDType>01</PublisherIDType>
+                <IDTypeName>Nielsen BookData Org ID</IDTypeName>
+                <IDValue>316954</IDValue>
+            </PublisherIdentifier>
+            <PublisherName>Forgotten Books</PublisherName>
+        </Publisher>
+        <CityOfPublication>London</CityOfPublication>
+        <CountryOfPublication>GB</CountryOfPublication>
+        <PublishingStatus>04</PublishingStatus>
+        <PublishingDate>
+            <PublishingDateRole>01</PublishingDateRole>
+            <Date>20230310</Date>
+        </PublishingDate>
+        <SalesRights>
+            <SalesRightsType>02</SalesRightsType>
+            <Territory>
+                <RegionsIncluded>WORLD</RegionsIncluded>
+            </Territory>
+        </SalesRights>
+    </PublishingDetail>
+	<RelatedMaterial>
+        <RelatedWork>
+            <WorkRelationCode>01</WorkRelationCode>
+            <WorkIdentifier>
+                <WorkIDType>01</WorkIDType>
+                <IDTypeName>system-internal-identifier</IDTypeName>
+                <IDValue>com.taylor-francis.onix.411924</IDValue>
+            </WorkIdentifier>
+        </RelatedWork>
+        <RelatedProduct>
+            <ProductRelationCode>27</ProductRelationCode>
+            <ProductIdentifier>
+                <ProductIDType>03</ProductIDType>
+                <IDValue>9781000919004</IDValue>
+            </ProductIdentifier>
+            <ProductIdentifier>
+                <ProductIDType>06</ProductIDType>
+                <IDValue>10.1201/9781003020752</IDValue>
+            </ProductIdentifier>
+            <ProductIdentifier>
+                <ProductIDType>15</ProductIDType>
+                <IDValue>9781000919004</IDValue>
+            </ProductIdentifier>
+            <ProductForm>EA</ProductForm>
+            <ProductFormDetail>E107</ProductFormDetail>
+        </RelatedProduct>
+        <RelatedProduct>
+            <ProductRelationCode>27</ProductRelationCode>
+            <ProductIdentifier>
+                <ProductIDType>03</ProductIDType>
+                <IDValue>9781000919066</IDValue>
+            </ProductIdentifier>
+            <ProductIdentifier>
+                <ProductIDType>06</ProductIDType>
+                <IDValue>10.1201/9781003020752</IDValue>
+            </ProductIdentifier>
+            <ProductIdentifier>
+                <ProductIDType>15</ProductIDType>
+                <IDValue>9781000919066</IDValue>
+            </ProductIdentifier>
+            <ProductForm>EA</ProductForm>
+            <ProductFormDetail>E101</ProductFormDetail>
+            <ProductFormDetail>E200</ProductFormDetail>
+        </RelatedProduct>
+        <RelatedProduct>
+            <ProductRelationCode>27</ProductRelationCode>
+            <ProductIdentifier>
+                <ProductIDType>03</ProductIDType>
+                <IDValue>9781003020752</IDValue>
+            </ProductIdentifier>
+            <ProductIdentifier>
+                <ProductIDType>06</ProductIDType>
+                <IDValue>10.1201/9781003020752</IDValue>
+            </ProductIdentifier>
+            <ProductIdentifier>
+                <ProductIDType>15</ProductIDType>
+                <IDValue>9781003020752</IDValue>
+            </ProductIdentifier>
+            <ProductForm>EA</ProductForm>
+            <ProductFormDetail>E100</ProductFormDetail>
+        </RelatedProduct>
+    </RelatedMaterial>
+    <ProductSupply>
+        <Market>
+            <Territory>
+                <CountriesIncluded>GB</CountriesIncluded>
+            </Territory>
+        </Market>
+        <SupplyDetail>
+            <Supplier>
+                <SupplierRole>00</SupplierRole>
+                <SupplierName>Unknown</SupplierName>
+            </Supplier>
+            <ProductAvailability>21</ProductAvailability>
+             <Price>
+                <PriceType>01</PriceType>
+                <PriceTypeDescription>Local taxes may apply</PriceTypeDescription>
+                <PriceCondition>
+                    <PriceConditionType>01</PriceConditionType>
+                    <PriceConditionQuantity>
+                        <PriceConditionQuantityType>02</PriceConditionQuantityType>
+                        <Quantity>1</Quantity>
+                        <QuantityUnit>00</QuantityUnit>
+                    </PriceConditionQuantity>
+                </PriceCondition>
+                <PriceStatus>02</PriceStatus>
+                <PriceAmount>85.99</PriceAmount>
+                <Tax>
+                    <TaxType>01</TaxType>
+                    <TaxRateCode>Z</TaxRateCode>
+                    <TaxRatePercent>0</TaxRatePercent>
+                    <TaxableAmount>85.99</TaxableAmount>
+                    <TaxAmount>0.00</TaxAmount>
+                </Tax>
+                <CurrencyCode>GBP</CurrencyCode>
+                <Territory>
+                    <CountriesIncluded>GB</CountriesIncluded>
+                </Territory>
+                <PrintedOnProduct>01</PrintedOnProduct>
+            </Price>
+        </SupplyDetail>
+        <SupplyDetail>
+            <Supplier>
+                <SupplierRole>00</SupplierRole>
+                <SupplierIdentifier>
+                    <SupplierIDType>01</SupplierIDType>
+                    <IDTypeName>Nielsen BookData Org ID</IDTypeName>
+                    <IDValue>89966</IDValue>
+                </SupplierIdentifier>
+                <SupplierName>Gazelle Book Services Ltd</SupplierName>
+            </Supplier>
+            <ProductAvailability>99</ProductAvailability>
+            <UnpricedItemType>04</UnpricedItemType>
+        </SupplyDetail>
+    </ProductSupply>
+</Product>
+   <OrderLabels ind1="a">
+      <subfield code="0">;ELi:SA-2022-03-10-0000000006</subfield>
+      <subfield code="1"></subfield>
+      <subfield code="2">ELiSA-9781390042740</subfield>
+      <subfield code="3">9781390042740</subfield>
+      <subfield code="a">---------------0----</subfield>
+      <subfield code="b"></subfield>
+      <subfield code="c"></subfield>
+      <subfield code="d"></subfield>
+      <subfield code="e">1</subfield>
+      <subfield code="f">9.99</subfield>
+      <subfield code="g">EUR</subfield>
+      <subfield code="i"></subfield>
+    </OrderLabels>
+</ONIXMessage>

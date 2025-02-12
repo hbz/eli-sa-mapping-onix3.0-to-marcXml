@@ -1,0 +1,208 @@
+<collection xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <leader>     cam  22     4  4500</leader>
+    <controlfield tag="001">ELiSA-9783030954185</controlfield>
+    <controlfield tag="007">
+    </controlfield>
+    <controlfield tag="008">      t20222022au |||||||||||| ||||eng d</controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">9783030954185</subfield>
+    </marc:datafield>
+    <marc:datafield tag="024" ind1="3" ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">9783030954185</subfield>
+    </marc:datafield>
+    <marc:datafield tag="024" ind1="7" ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">10.1007/978-3-030-95419-2</subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">(ELiSA)ELiSA-9783030954185</subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">eng</subfield>
+    </marc:datafield>
+    <marc:datafield tag="044" ind1="#" ind2="#" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="c">XA-CH</subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Ahmed, Khaled R.</subfield>
+      <subfield code="4">edt</subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Blockchain and Deep Learning</subfield>
+      <subfield code="b">Future Trends and Enabling Technologies</subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">1st ed. 2022</subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">349 p.</subfield>
+      <subfield code="b"> </subfield>
+      <subfield code="c">697 grams.</subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1="#" ind2="#" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="b">txt</subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1="#" ind2="#" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="b">n</subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1="#" ind2="#" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="b">nc</subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Studies in Big Data</subfield>
+      <subfield code="v">105</subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">ShareCert: Sharing and Authenticating Certificates and Credentials on Blockchain.- Prospects of Semantic Web and Blockchain technologies in Libraries.- Scalability Analysis of Proof-of-Work based Blockchain.- Smart Contract: A Way to Modern Digital World.- Decentralized Public Distribution System on the Ethereum Blockchain interact with MyEtherWallet.; </subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="" ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">This book introduces to blockchain and deep learning and explores and illustrates the current and new trends that integrate them. The pace and speeds for connectivity are certain on the ascend. Blockchain and deep learning are twin technologies that are integral to integrity and relevance of network contents. Since they are data-driven technologies, rapidly growing interests exist to incorporate them in efficient and secure data sharing and analysis applications. Blockchain and deep learning are sentinel contemporary research technologies. This book provides a comprehensive reference for blockchain and deep learning by covering all important topics. It identifies the bedrock principles and forward projecting methodologies that illuminate the trajectory of developments for the decades ahead.
+
+</subfield>
+    </marc:datafield>
+    <marc:datafield tag="538" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a"> </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="7" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="2">bicssc</subfield>
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="7" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="2">bicssc</subfield>
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="7" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="2">bicssc</subfield>
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="7" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="2">bisacsh</subfield>
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="7" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="2">bisacsh</subfield>
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="7" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="2">bisacsh</subfield>
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="0" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Cooperating objects (Computer systems)</subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="0" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Computational intelligence</subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="0" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Big data</subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="0" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Engineering—Data processing</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Computeranwendungen in Wissenschaft &amp; Technologie</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">B</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Data Engineering</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Engineering</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Data Engineering</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Cyber-Physical Systems</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Cyber-physical systems, IoT</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Computeranwendungen in der Technik</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Computational Intelligence</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Computational Intelligence</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Elektrotechnik</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Big Data</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Big Data</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Ambient Intelligence, RFID, Internet der Dinge</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Nachrichten- und Kommunikationstechnik</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Künstliche Intelligenz</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Big Data</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="4" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Big Data;Blockchain;Cyber-Physical Systems;Deep Learning;Computational Intelligence</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1="" ind2="0" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Hardcover, Softcover / Technik/Allgemeines, Lexika</subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1="3" ind2="l" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="0" xmlns="">DE-605;EL-20230627-00000881_00001</subfield>
+      <subfield code="1" xmlns="">DE-605</subfield>
+      <subfield code="2" xmlns="">ELiSA-9783030954185</subfield>
+      <subfield code="3" xmlns="">9783030954185</subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1="3" ind2="l" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a" xmlns="">DE-605</subfield>
+      <subfield code="b" xmlns="">FBMED</subfield>
+      <subfield code="c" xmlns="">1</subfield>
+      <subfield code="m" xmlns="">Medien und Kommunikation</subfield>
+    </marc:datafield>
+    <marc:datafield tag="922" ind1="3" ind2="l" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a" xmlns="">3-321</subfield>
+      <subfield code="b" xmlns="">ub_test</subfield>
+      <subfield code="c" xmlns="">DE-605;EL-20230627-00000881_00003</subfield>
+      <subfield code="f" xmlns="">160.49</subfield>
+      <subfield code="g" xmlns="">ELiSA-9783030954185</subfield>
+      <subfield code="j" xmlns="">001</subfield>
+      <subfield code="k" xmlns="">100</subfield>
+      <subfield code="l" xmlns="">Rip</subfield>
+      <subfield code="q" xmlns="">N</subfield>
+      <subfield code="r" xmlns="">N</subfield>
+      <subfield code="u" xmlns="">9783030954185</subfield>
+      <subfield code="v" xmlns="">N</subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Cham</subfield>
+      <subfield code="b">Springer</subfield>
+      <subfield code="c">2022</subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Hexmoor, Henry</subfield>
+      <subfield code="4">edt</subfield>
+    </marc:datafield>
+    <marc:datafield tag="776" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="z">9783030954215</subfield>
+    </marc:datafield>
+  </record>
+</collection>

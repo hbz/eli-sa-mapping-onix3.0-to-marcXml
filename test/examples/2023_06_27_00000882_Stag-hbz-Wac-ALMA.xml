@@ -1,0 +1,182 @@
+<collection xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <leader>     cam  22     4  4500</leader>
+    <controlfield tag="001">ELiSA-9783030690120</controlfield>
+    <controlfield tag="007">
+    </controlfield>
+    <controlfield tag="008">      t20212021au |||||||||||| ||||eng d</controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">9783030690120</subfield>
+    </marc:datafield>
+    <marc:datafield tag="024" ind1="3" ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">9783030690120</subfield>
+    </marc:datafield>
+    <marc:datafield tag="024" ind1="7" ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">10.1007/978-3-030-69013-7</subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">(ELiSA)ELiSA-9783030690120</subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">eng</subfield>
+    </marc:datafield>
+    <marc:datafield tag="044" ind1="#" ind2="#" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="c">XA-CH</subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Kinkead-Clark, Zoyah</subfield>
+      <subfield code="4">edt</subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Reconceptualizing Quality in Early Childhood Education, Care and Development</subfield>
+      <subfield code="b">Understanding the Child and Community</subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">1st ed. 2021</subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">300 p.</subfield>
+      <subfield code="b"> </subfield>
+      <subfield code="c">555 grams.</subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1="#" ind2="#" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="b">txt</subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1="#" ind2="#" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="b">n</subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1="#" ind2="#" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="b">nc</subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Part 1. Reconceptualising Quality: Perceptions of the Child.- Chapter 1. The child as “Other”: The Duality of the other and the pedagogy of care.- Chapter 2. The role of the critical paradigm and revisiting the image of the child as a social agent.- Part 2. Reconceptualising quality:  Classroom practices.- Chapter 3.  Every Learner Succeeds: Reconceptualising Quality in Early Childhood in the Organisation of the Eastern Caribbean States.- Chapter 4. Towards a balanced early-years curriculum: Awakening to foreign languages illustrated.- Chapter 5. Rethinking an Early Care and Education Program: Responding to Changes in Community Demographics.- Chapter 6. Indigenous children’s ‘ways of knowing’ – exploring literacy learning for Indigenous preschool children in remote communities in Australia.- Part 3. Reconceptualising Quality: Teacher Education/Teacher training.- Chapter 7: Questioning quality in early childhood teacher education through the lens of culture.- Chapter 8. Knowing differently/Teaching differently: Transforming a Teacher Education Program.- Chapter 9. Management of Early Childhood Education Provision in Tanzania: Structure, Prospects and Challenges.- Part 4. Reconceptualising Quality: Play-based learning.- Chapter 10. An anti-racist perspective of play-based learning.- Chapter 11. The Case of a Self-Developed Community of Learners Outdoors: Benefits and Challenges for Stay-At-Home-Moms and Their Toddlers.;  ; </subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Recognizing the various ecological contexts that support children’s development while amplifying voices from across the globe, this book challenges narrow interpretations of quality and best practice. Each author offers a unique perspective on issues germane to the field of early childhood education: perceptions of children, curriculum, teacher education, and play-based learning. An innovative, timely, and much-needed contribution, this book represents an inclusive collection of theoretical and cultural knowledge, as well as research. Such a diverse multicentric lens opens new intellectual pathways for authentic, reciprocal knowledge exchange, while ensuring that a reimagining of early childhood education remains at the core of our teaching practice, scholarship, and activism.  This book invites everyone to imagine, to dare to believe, to hope, and to act—in the interests of children, in the interests of communities and families, and in the moral precepts of equity, inclusion and justice.
+Zoyah Kinkead-Clark is Senior Lecturer and coordinator of early childhood programmes at The University of the West Indies, Jamaica. As a researcher, she is particularly interested in understanding how young children are shaped by their ecological experiences within the home and wider community with the view to explore how educators can build on these in early years settings.
+
+Kerry-Ann Escayg is an Assistant Professor of Early Childhood Education at the University of Nebraska-Omaha, USA. Dr. Escayg’s research interests are children and race, anti-racism in early childhood education, racial socialization, and qualitative research with children.
+</subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="" ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Recognizing the various ecological contexts that support children’s development while amplifying voices from across the globe, this book challenges narrow interpretations of quality and best practice.  Each author offers a unique perspective on issues germane to the field of early childhood education: perceptions of children, curriculum, teacher education, and play-based learning. An innovative, timely, and much-needed contribution, this book represents an inclusive collection of theoretical and cultural knowledge, as well as research. Such a diverse multicentric lens opens new intellectual pathways for authentic, reciprocal knowledge exchange, while ensuring that a reimagining of early childhood education remains at the core of our teaching practice, scholarship, and activism.  This book invites everyone to imagine, to dare to believe, to hope, and to act—in the interests of children, in the interests of communities and families, and in the moral precepts of equity, inclusion and justice.
+</subfield>
+    </marc:datafield>
+    <marc:datafield tag="538" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a"> </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="7" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="2">bicssc</subfield>
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="7" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="2">bicssc</subfield>
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="7" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="2">bisacsh</subfield>
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="7" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="2">bisacsh</subfield>
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="0" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">International education </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="0" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Comparative education</subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="0" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Developmental psychology</subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="0" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Early childhood education</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Medienwissenschaften</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">B</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Early Childhood Education</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Education</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Early Childhood Education</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">International and Comparative Education</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">International and Comparative Education</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Innen-, Bildungs- und Bevölkerungspolitik</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Child and Adolescence Psychology</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Kommunikationswissenschaften</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Infancy and Early Childhood Development</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">
+      </subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="" ind2="4" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">quality in education;ECE;EY education;quality in the early years;development and education</subfield>
+    </marc:datafield>
+    <marc:datafield tag="653" ind1="" ind2="0" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Hardcover, Softcover / Pädagogik/Kindergarten- und Vorschulpädagogik</subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1="3" ind2="m" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="0" xmlns="">DE-605;EL-20230627-00000882_00001</subfield>
+      <subfield code="1" xmlns="">DE-605</subfield>
+      <subfield code="2" xmlns="">ELiSA-9783030690120</subfield>
+      <subfield code="3" xmlns="">9783030690120</subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1="3" ind2="m" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a" xmlns="">DE-605</subfield>
+      <subfield code="b" xmlns="">FBMED</subfield>
+      <subfield code="c" xmlns="">1</subfield>
+      <subfield code="m" xmlns="">Medien und Kommunikation</subfield>
+    </marc:datafield>
+    <marc:datafield tag="922" ind1="3" ind2="m" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a" xmlns="">3-321</subfield>
+      <subfield code="b" xmlns="">ub_test</subfield>
+      <subfield code="c" xmlns="">DE-605;EL-20230627-00000882_00003</subfield>
+      <subfield code="f" xmlns="">149.79</subfield>
+      <subfield code="g" xmlns="">ELiSA-9783030690120</subfield>
+      <subfield code="j" xmlns="">001</subfield>
+      <subfield code="k" xmlns="">100</subfield>
+      <subfield code="l" xmlns="">Rip</subfield>
+      <subfield code="q" xmlns="">N</subfield>
+      <subfield code="r" xmlns="">N</subfield>
+      <subfield code="u" xmlns="">9783030690120</subfield>
+      <subfield code="v" xmlns="">N</subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1" xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Cham</subfield>
+      <subfield code="b">Palgrave Macmillan</subfield>
+      <subfield code="c">2021</subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="a">Escayg, Kerry-Ann</subfield>
+      <subfield code="4">edt</subfield>
+    </marc:datafield>
+    <marc:datafield tag="776" ind1=" " ind2=" " xmlns:marc="http://www.loc.gov/MARC21/slim">
+      <subfield code="z">9783030690151</subfield>
+    </marc:datafield>
+  </record>
+</collection>

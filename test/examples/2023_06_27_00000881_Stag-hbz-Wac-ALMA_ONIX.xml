@@ -1,0 +1,585 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ONIXmessage release="2.1">
+  <Product datestamp="20230409">
+    <RecordReference>9783030954185/nbs</RecordReference>
+    <NotificationType>03</NotificationType>
+    <RecordSourceIdentifierType>05</RecordSourceIdentifierType>
+    <RecordSourceIdentifier>27847</RecordSourceIdentifier>
+    <RecordSourceName>NEWBOOKS</RecordSourceName>
+    <ProductIdentifier>
+      <ProductIDType>01</ProductIDType>
+      <IDTypeName>Publishers Order No</IDTypeName>
+      <IDValue>978-3-030-95418-5</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9783030954185</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>06</ProductIDType>
+      <IDValue>10.1007/978-3-030-95419-2</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9783030954185</IDValue>
+    </ProductIdentifier>
+    <ProductForm>BB</ProductForm>
+    <ProductPackaging>00</ProductPackaging>
+    <NumberOfPieces>1</NumberOfPieces>
+    <ProductClassification>
+      <ProductClassificationType>04</ProductClassificationType>
+      <ProductClassificationCode>49019900</ProductClassificationCode>
+    </ProductClassification>
+    <Series>
+      <SeriesIdentifier>
+        <SeriesIDType>01</SeriesIDType>
+        <IDTypeName>unknown IDType</IDTypeName>
+        <IDValue>SBD</IDValue>
+      </SeriesIdentifier>
+      <Title>
+        <TitleType>01</TitleType>
+        <TitleText>Studies in Big Data</TitleText>
+      </Title>
+      <NumberWithinSeries>105</NumberWithinSeries>
+    </Series>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Blockchain and Deep Learning</TitleText>
+      <Subtitle>Future Trends and Enabling Technologies</Subtitle>
+    </Title>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>B01</ContributorRole>
+      <SequenceNumberWithinRole>1</SequenceNumberWithinRole>
+      <PersonName>Khaled R. Ahmed</PersonName>
+      <PersonNameInverted>Ahmed, Khaled R.</PersonNameInverted>
+      <NamesBeforeKey>Khaled R.</NamesBeforeKey>
+      <KeyNames>Ahmed</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>B01</ContributorRole>
+      <SequenceNumberWithinRole>2</SequenceNumberWithinRole>
+      <PersonName>Henry Hexmoor</PersonName>
+      <PersonNameInverted>Hexmoor, Henry</PersonNameInverted>
+      <NamesBeforeKey>Henry</NamesBeforeKey>
+      <KeyNames>Hexmoor</KeyNames>
+    </Contributor>
+    <EditionStatement>1st ed. 2022</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <PagesRoman>x</PagesRoman>
+    <PagesArabic>349</PagesArabic>
+    <Illustrations>
+      <IllustrationType>01</IllustrationType>
+      <Number>34</Number>
+    </Illustrations>
+    <Illustrations>
+      <IllustrationType>02</IllustrationType>
+      <Number>122</Number>
+    </Illustrations>
+    <Illustrations>
+      <IllustrationType>26</IllustrationType>
+      <IllustrationTypeDescription>X, 349 p. 156 illus., 122 illus. in color.</IllustrationTypeDescription>
+    </Illustrations>
+    <BASICMainSubject>COM018000</BASICMainSubject>
+    <BICMainSubject>UN</BICMainSubject>
+    <BICVersion>2.0</BICVersion>
+    <MainSubject>
+      <MainSubjectSchemeIdentifier>26</MainSubjectSchemeIdentifier>
+      <SubjectSchemeVersion>2.0</SubjectSchemeVersion>
+      <SubjectCode>1681</SubjectCode>
+      <SubjectHeadingText>Hardcover, Softcover / Technik/Allgemeines, Lexika</SubjectHeadingText>
+    </MainSubject>
+    <MainSubject>
+      <MainSubjectSchemeIdentifier>04</MainSubjectSchemeIdentifier>
+      <SubjectHeadingText>Engineering—Data processing</SubjectHeadingText>
+    </MainSubject>
+    <MainSubject>
+      <MainSubjectSchemeIdentifier>01</MainSubjectSchemeIdentifier>
+      <SubjectCode>620.00285</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </MainSubject>
+    <MainSubject>
+      <MainSubjectSchemeIdentifier>03</MainSubjectSchemeIdentifier>
+      <SubjectCode>TA345-345.5</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </MainSubject>
+    <MainSubject>
+      <MainSubjectSchemeIdentifier>93</MainSubjectSchemeIdentifier>
+      <SubjectSchemeVersion>1.3</SubjectSchemeVersion>
+      <SubjectCode>UN</SubjectCode>
+      <SubjectHeadingText>Databases</SubjectHeadingText>
+    </MainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Big Data;Blockchain;Cyber-Physical Systems;Deep Learning;Computational Intelligence</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>newbooks</SubjectSchemeName>
+      <SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+      <SubjectCode>FINT085</SubjectCode>
+      <SubjectHeadingText>Computeranwendungen in Wissenschaft &amp; Technologie</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Marketing Classification</SubjectSchemeName>
+      <SubjectHeadingText>B</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Subject Code</SubjectSchemeName>
+      <SubjectCode>SCT11040</SubjectCode>
+      <SubjectHeadingText>Data Engineering</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Subject Collection</SubjectSchemeName>
+      <SubjectCode>SUCO11647</SubjectCode>
+      <SubjectHeadingText>Engineering</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Taxonomy</SubjectSchemeName>
+      <SubjectCode>7014</SubjectCode>
+      <SubjectHeadingText>Data Engineering</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>TEC007000</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>THR</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>04</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Cooperating objects (Computer systems)</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>03</SubjectSchemeIdentifier>
+      <SubjectCode>TK7895.E42</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+      <SubjectCode>621.38</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectSchemeVersion>1.3</SubjectSchemeVersion>
+      <SubjectCode>TJF</SubjectCode>
+      <SubjectHeadingText>Electronics engineering</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Taxonomy</SubjectSchemeName>
+      <SubjectCode>6578</SubjectCode>
+      <SubjectHeadingText>Cyber-Physical Systems</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Subject Code</SubjectSchemeName>
+      <SubjectCode>SCT24080</SubjectCode>
+      <SubjectHeadingText>Cyber-physical systems, IoT</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>newbooks</SubjectSchemeName>
+      <SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+      <SubjectCode>TALA075</SubjectCode>
+      <SubjectHeadingText>Computeranwendungen in der Technik</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>TEC009000</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>UYQ</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>04</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Computational intelligence</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+      <SubjectCode>006.3</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>03</SubjectSchemeIdentifier>
+      <SubjectCode>TK5105.8857</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectSchemeVersion>1.3</SubjectSchemeVersion>
+      <SubjectCode>GPFC</SubjectCode>
+      <SubjectHeadingText>Cybernetics and systems theory</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Taxonomy</SubjectSchemeName>
+      <SubjectCode>5427</SubjectCode>
+      <SubjectHeadingText>Computational Intelligence</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Subject Code</SubjectSchemeName>
+      <SubjectCode>SCT11014</SubjectCode>
+      <SubjectHeadingText>Computational Intelligence</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>newbooks</SubjectSchemeName>
+      <SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+      <SubjectCode>TPEA050</SubjectCode>
+      <SubjectHeadingText>Elektrotechnik</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>COM021000</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>UN</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>04</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Big data</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>03</SubjectSchemeIdentifier>
+      <SubjectCode>Q342</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+      <SubjectCode>005.7</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectSchemeVersion>1.3</SubjectSchemeVersion>
+      <SubjectCode>UYQ</SubjectCode>
+      <SubjectHeadingText>Artificial intelligence</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Taxonomy</SubjectSchemeName>
+      <SubjectCode>5888</SubjectCode>
+      <SubjectHeadingText>Big Data</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>Springer Nature Subject Code</SubjectSchemeName>
+      <SubjectCode>SCI29120</SubjectCode>
+      <SubjectHeadingText>Big Data</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>newbooks</SubjectSchemeName>
+      <SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+      <SubjectCode>FINSH40</SubjectCode>
+      <SubjectHeadingText>Ambient Intelligence, RFID, Internet der Dinge</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>03</SubjectSchemeIdentifier>
+      <SubjectCode>QA76.9.B45</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectSchemeVersion>1.3</SubjectSchemeVersion>
+      <SubjectCode>UN</SubjectCode>
+      <SubjectHeadingText>Databases</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>newbooks</SubjectSchemeName>
+      <SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+      <SubjectCode>TELT</SubjectCode>
+      <SubjectHeadingText>Nachrichten- und Kommunikationstechnik</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>newbooks</SubjectSchemeName>
+      <SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+      <SubjectCode>FINSA</SubjectCode>
+      <SubjectHeadingText>Künstliche Intelligenz</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>newbooks</SubjectSchemeName>
+      <SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+      <SubjectCode>FIND075</SubjectCode>
+      <SubjectHeadingText>Big Data</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+      <SubjectSchemeName>nbCategory</SubjectSchemeName>
+      <SubjectCode>CV</SubjectCode>
+      <SubjectHeadingText></SubjectHeadingText>
+    </Subject>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>06</TextFormat>
+      <Text language="eng">This book introduces to blockchain and deep learning and explores and illustrates the current and new trends that integrate them. The pace and speeds for connectivity are certain on the ascend. Blockchain and deep learning are twin technologies that are integral to integrity and relevance of network contents. Since they are data-driven technologies, rapidly growing interests exist to incorporate them in efficient and secure data sharing and analysis applications. Blockchain and deep learning are sentinel contemporary research technologies. This book provides a comprehensive reference for blockchain and deep learning by covering all important topics. It identifies the bedrock principles and forward projecting methodologies that illuminate the trajectory of developments for the decades ahead.
+
+</Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>04</TextTypeCode>
+      <TextFormat>06</TextFormat>
+      <Text language="eng">ShareCert: Sharing and Authenticating Certificates and Credentials on Blockchain.- Prospects of Semantic Web and Blockchain technologies in Libraries.- Scalability Analysis of Proof-of-Work based Blockchain.- Smart Contract: A Way to Modern Digital World.- Decentralized Public Distribution System on the Ethereum Blockchain interact with MyEtherWallet.; </Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>19</TextTypeCode>
+      <TextFormat>06</TextFormat>
+      <Text language="eng">Provides a comprehensive reference for blockchain and deep learning by covering all important topics
+
+Introduces to blockchain and deep learning, explores and illustrates current and new trends that integrate them
+
+Is first edited focusing on merging blockchain and deep learning in cyber-physical systems and IoT platforms
+</Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>99</TextTypeCode>
+      <TextFormat>06</TextFormat>
+      <Text language="eng">NL</Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>06</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <ImageResolution>300</ImageResolution>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://www.newbooks-services.de/MediaFiles/Cover/5/9783030954185_06.jpg</MediaFileLink>
+    </MediaFile>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <ImageResolution>96</ImageResolution>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://www.newbooks-services.de/MediaFiles/Cover/5/9783030954185_cover.jpg</MediaFileLink>
+      <DownloadTerms>648x430px</DownloadTerms>
+      <MediaFileDate>20211223</MediaFileDate>
+    </MediaFile>
+    <ProductWebsite>
+      <ProductWebsiteLink>http://www.springer.com/</ProductWebsiteLink>
+    </ProductWebsite>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Springer Nature Imprint</NameCodeTypeName>
+      <NameCodeValue>SPR</NameCodeValue>
+      <ImprintName>Springer</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>05</NameCodeType>
+      <NameCodeValue>5108985</NameCodeValue>
+      <PublisherName>Springer</PublisherName>
+      <Website>
+        <WebsiteLink>http://www.springer.com/</WebsiteLink>
+      </Website>
+    </Publisher>
+    <CityOfPublication>Cham</CityOfPublication>
+    <CountryOfPublication>CH</CountryOfPublication>
+    <PublishingStatus>04</PublishingStatus>
+    <PublicationDate>20220329</PublicationDate>
+    <CopyrightYear>2022</CopyrightYear>
+    <Measure>
+      <MeasureTypeCode>08</MeasureTypeCode>
+      <Measurement>697</Measurement>
+      <MeasureUnitCode>gr</MeasureUnitCode>
+    </Measure>
+    <Measure>
+      <MeasureTypeCode>01</MeasureTypeCode>
+      <Measurement>235</Measurement>
+      <MeasureUnitCode>mm</MeasureUnitCode>
+    </Measure>
+    <Measure>
+      <MeasureTypeCode>02</MeasureTypeCode>
+      <Measurement>155</Measurement>
+      <MeasureUnitCode>mm</MeasureUnitCode>
+    </Measure>
+    <RelatedProduct>
+      <RelationCode>27</RelationCode>
+      <ProductIdentifier>
+        <ProductIDType>01</ProductIDType>
+        <IDValue>978-3-030-95419-2</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+        <ProductIDType>03</ProductIDType>
+        <IDValue>9783030954192</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+        <ProductIDType>15</ProductIDType>
+        <IDValue>9783030954192</IDValue>
+      </ProductIdentifier>
+      <ProductForm>DG</ProductForm>
+    </RelatedProduct>
+    <RelatedProduct>
+      <RelationCode>06</RelationCode>
+      <ProductIdentifier>
+        <ProductIDType>01</ProductIDType>
+        <IDValue>978-3-030-95421-5</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+        <ProductIDType>03</ProductIDType>
+        <IDValue>9783030954215</IDValue>
+      </ProductIdentifier>
+      <ProductIdentifier>
+        <ProductIDType>15</ProductIDType>
+        <IDValue>9783030954215</IDValue>
+      </ProductIdentifier>
+      <ProductForm>BC</ProductForm>
+    </RelatedProduct>
+    <SupplyDetail>
+      <SupplierIdentifier>
+        <SupplierIDType>05</SupplierIDType>
+        <IDValue>5251753</IDValue>
+      </SupplierIdentifier>
+      <SupplierName>Springer International Publishing</SupplierName>
+      <AvailabilityCode>MD</AvailabilityCode>
+      <ProductAvailability>23</ProductAvailability>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>149.99</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <Territory>ROW</Territory>
+        <PriceEffectiveFrom>20230401</PriceEffectiveFrom>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>164.99</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <CountryCode>AT</CountryCode>
+        <TaxRateCode1>R</TaxRateCode1>
+        <TaxRatePercent1>10.0</TaxRatePercent1>
+      </Price>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>226.36</PriceAmount>
+        <CurrencyCode>AUD</CurrencyCode>
+        <CountryCode>AU</CountryCode>
+        <PriceEffectiveFrom>20230401</PriceEffectiveFrom>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>249.00</PriceAmount>
+        <CurrencyCode>AUD</CurrencyCode>
+        <CountryCode>AU</CountryCode>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>177.00</PriceAmount>
+        <CurrencyCode>CHF</CurrencyCode>
+        <CountryCode>CH</CountryCode>
+        <TaxRateCode1>R</TaxRateCode1>
+        <TaxRatePercent1>2.5</TaxRatePercent1>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>160.49</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <CountryCode>DE</CountryCode>
+        <TaxRateCode1>R</TaxRateCode1>
+        <TaxRatePercent1>7.0</TaxRatePercent1>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>158.24</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <CountryCode>FR</CountryCode>
+      </Price>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>129.99</PriceAmount>
+        <CurrencyCode>GBP</CurrencyCode>
+        <CountryCode>GB</CountryCode>
+        <PriceEffectiveFrom>20230401</PriceEffectiveFrom>
+      </Price>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>10700.00</PriceAmount>
+        <CurrencyCode>INR</CurrencyCode>
+        <CountryCode>IN</CountryCode>
+        <PriceEffectiveFrom>20230401</PriceEffectiveFrom>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>155.99</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <CountryCode>IT</CountryCode>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>21449.00</PriceAmount>
+        <CurrencyCode>JPY</CurrencyCode>
+        <CountryCode>JP</CountryCode>
+      </Price>
+      <Price>
+        <PriceTypeCode>02</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>163.49</PriceAmount>
+        <CurrencyCode>EUR</CurrencyCode>
+        <CountryCode>NL</CountryCode>
+      </Price>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceStatus>02</PriceStatus>
+        <PriceAmount>169.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <CountryCode>US</CountryCode>
+      </Price>
+    </SupplyDetail>
+    <OrderLabels p1:type="MarcExportOrderlabel_920aa" tag="920" ind1="3" ind2="l" marctype="920aa" xmlns:p1="http://www.w3.org/2001/XMLSchema-instance">
+      <subfield code="0">DE-605;EL-20230627-00000881_00001</subfield>
+      <subfield code="1">DE-605</subfield>
+      <subfield code="2">ELiSA-9783030954185</subfield>
+      <subfield code="3">9783030954185</subfield>
+    </OrderLabels>
+    <OrderLabels p1:type="MarcExportOrderlabel_921aa" tag="921" ind1="3" ind2="l" marctype="921aa" xmlns:p1="http://www.w3.org/2001/XMLSchema-instance">
+      <subfield code="a">DE-605</subfield>
+      <subfield code="b">FBMED</subfield>
+      <subfield code="c">1</subfield>
+      <subfield code="m">Medien und Kommunikation</subfield>
+    </OrderLabels>
+    <OrderLabels p1:type="MarcExportOrderlabel_922aa" tag="922" ind1="3" ind2="l" marctype="922aa" xmlns:p1="http://www.w3.org/2001/XMLSchema-instance">
+      <subfield code="a">3-321</subfield>
+      <subfield code="b">ub_test</subfield>
+      <subfield code="c">DE-605;EL-20230627-00000881_00003</subfield>
+      <subfield code="f">160.49</subfield>
+      <subfield code="g">ELiSA-9783030954185</subfield>
+      <subfield code="j">001</subfield>
+      <subfield code="k">100</subfield>
+      <subfield code="l">Rip</subfield>
+      <subfield code="q">N</subfield>
+      <subfield code="r">N</subfield>
+      <subfield code="u">9783030954185</subfield>
+      <subfield code="v">N</subfield>
+    </OrderLabels>
+  </Product>
+</ONIXmessage>
