@@ -1,1 +1,9 @@
-nothing()
+# 245 - Title
+
+do list(path:"Product.DescriptiveDetail.TitleDetail","var":"$i")
+	if any_match("$i.TitleType.value","(00|01|03)")
+		paste("245  .a", "$i.TitleElement.TitlePrefix.value", "$i.TitleElement.TitleWithoutPrefix.value")
+	end
+end
+
+retain("245*")
