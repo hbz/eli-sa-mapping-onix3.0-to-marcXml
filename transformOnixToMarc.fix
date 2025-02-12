@@ -20,6 +20,9 @@ do list(path:"Product.DescriptiveDetail.Contributor","var":"$i")
 	end
 end
 
+# 260
+
+copy_field("Product.PublishingDetail.PublishingDate.Date.value","260  .c")
 
 
-retain("100*","245*")
+retain("100*","245*","260*")

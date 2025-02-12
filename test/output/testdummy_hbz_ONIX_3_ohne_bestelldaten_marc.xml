@@ -8,6 +8,9 @@
 			<marc:subfield code="a">Mustermann, Max</marc:subfield>
 			<marc:subfield code="4">aut</marc:subfield>
 		</marc:datafield>
+		<marc:datafield tag="260" ind1=" " ind2=" ">
+			<marc:subfield code="c">20230310</marc:subfield>
+		</marc:datafield>
 	</marc:record>
 
 </marc:collection>
