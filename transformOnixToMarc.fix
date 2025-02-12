@@ -6,4 +6,20 @@ do list(path:"Product.DescriptiveDetail.TitleDetail","var":"$i")
 	end
 end
 
-retain("245*")
+# 100
+
+do list(path:"Product.DescriptiveDetail.Contributor","var":"$i")
+	unless exists("100  ")
+		if any_match("$i.ContributorRole.value","A01")
+			copy_field("$i.PersonNameInverted.value","100  .a")
+			add_field("100  .4", "aut")	
+		elsif any_match("$i.ContributorRole.value","B01")
+			copy_field("$i.PersonNameInverted.value","100  .a")
+			add_field("100  .4", "edt")
+		end
+	end
+end
+
+
+
+retain("100*","245*")
