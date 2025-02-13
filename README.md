@@ -1,6 +1,6 @@
 # Set up  transformation for Eli:Sa Onix 3.0 to Marc
 
-The old Eli:Sa transformation only supports ONIX 2.1 this repo introduces a transformation for ONIX 3.0 top MARC XML with Metafacture
+The old Eli:Sa transformation only supports ONIX 2.1 this repo introduces a transformation for ONIX 3.0 to MARC XML with Metafacture
 
 The input files are ONIX 3.0. Find examples in `test/input`. In `test/examples` you can finde input and output of the old transformation.
 
