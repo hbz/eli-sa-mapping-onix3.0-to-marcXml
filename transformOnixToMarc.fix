@@ -1,3 +1,8 @@
+# 001
+
+copy_field("Product.RecordReference.value","001")
+prepend("001","ELiSA-")
+
 # 245 - Title
 
 do list(path:"Product.DescriptiveDetail.TitleDetail","var":"$i")
@@ -25,4 +30,4 @@ end
 copy_field("Product.PublishingDetail.PublishingDate.Date.value","260  .c")
 
 
-retain("100*","245*","260*")
+retain("001","100*","245*","260*")
