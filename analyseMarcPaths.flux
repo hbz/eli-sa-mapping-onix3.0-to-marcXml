@@ -1,7 +1,8 @@
-default infile="test/examples/2023_06_27_00000882_Stag-hbz-Wac-ALMA.xml";
+default dir="test/examples/";
 default outfile="test/marc_paths.txt";
 
-infile
+dir
+| read-dir(recursive="true", filenamepattern=".*MARC.xml")
 | open-file
 | decode-xml
 | handle-marcxml
